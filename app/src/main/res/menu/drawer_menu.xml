@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_message"
+            android:title="जूम गाइड" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="ज़ूम में मीटिंग विंडो नेविगेट करना सीखें।" />
+        <item
+            android:id="@+id/nav_miscc"
+            android:title="ज़ूम: सेटिंग्स और कॉन्फ़िगरेशन" />
+        <item
+            android:id="@+id/nav_misc"
+            android:title="ज़ूम: मीटिंग शेड्यूल करें" />
+        <item
+            android:id="@+id/nav_vita"
+            android:title="ज़ूम: मीटिंग प्रारंभ करें" />
+        <item
+            android:id="@+id/nav_vitah"
+            android:title="ज़ूम: मीटिंग में शामिल हों" />
+        <item
+            android:id="@+id/nav_vitaf"
+            android:title="ज़ूम: फ़ोन द्वारा मीटिंग में शामिल हों" />
+        <item
+            android:id="@+id/nav_vitak"
+            android:title="ज़ूम मीटिंग के होस्ट कंट्रोल का दावा करना" />
+        <item
+            android:id="@+id/nav_vitad"
+            android:title="ज़ूम: मीटिंग के दौरान सामग्री साझा करें" />
+        <item
+            android:id="@+id/nav_vitap"
+            android:title="स्क्रीन शेयरिंग के दौरान कंप्यूटर ध्वनि साझा करना" />
+        <item
+            android:id="@+id/nav_vitabc"
+            android:title="ज़ूम: रिकॉर्ड और मीटिंग साझा करें" />
+        <item
+            android:id="@+id/nav_vitac"
+            android:title="ज़ूम: उपस्थित लोगों को प्रबंधित करें" />
+        <item
+            android:id="@+id/nav_vitab1"
+            android:title="ब्रेकआउट रूम का प्रबंधन करना " />
+        <item
+            android:id="@+id/nav_vitab2"
+            android:title="Virtual Backgrounds" />
+
+    </group>
+
+</menu>
